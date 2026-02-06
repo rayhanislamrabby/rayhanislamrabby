@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines;MERN+Stack+Developer;React+⚡+Node+⚡+MongoDB;Building+Modern+Web+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React+⚡+Node+⚡+MongoDB;Building+Modern+Web+Experiences+🚀" />
 </h1>
 
 <p align="center">
