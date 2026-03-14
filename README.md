@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Rabby%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p><h1 align="center">Hi 👋, I'm Rabby</h1><h3 align="center">Full Stack MERN & Next.js Developer</h3><p align="center">
+<h1 align="center">Hi 👋, I'm Rabby</h1><h3 align="center">Full Stack MERN & Next.js Developer</h3><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Next.js+%7C+React+%7C+Node;Building+Modern+Web+Apps+🚀"/>
 </p>---
 
