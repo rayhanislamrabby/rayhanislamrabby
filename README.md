@@ -7,11 +7,6 @@
 💻 Full-Stack MERN & Next.js Developer
 🚀 Passionate about building modern web applications
 
-🎯 Looking for
-
-• Junior Developer Role
-• Remote Internship
-• Freelance Projects
 
 ---
 
