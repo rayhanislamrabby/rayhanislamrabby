@@ -1,96 +1,103 @@
 <h1 align="center">Hi 👋, I'm Rabby</h1>
-<h3 align="center">🚀 Full Stack MERN Developer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Web+Applications+🚀"/>
+</p>---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Modern+Web+Apps+🚀"/>
-</p>
+🧠 About Me
 
----
-
-## 🧠 About Me
-
-* 💻 Full-Stack MERN & Next.js Developer
-* 🚀 Passionate about building modern & scalable web apps
-* ⚡ Love clean UI, performance & real-world projects
+* 💻 Full Stack Developer
+* 🚀 Passionate about building modern & scalable web applications
+* ⚡ Focused on clean architecture, performance & user experience
+* 🎯 Turning ideas into real-world digital solutions
 
 ---
 
-## 🌐 Portfolio
+🌐 Portfolio
 
 <p align="center">
   <a href="https://rabby-portfolio.netlify.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanislamrabby&repo=portfolio&theme=tokyonight"/>
   </a>
-</p>
+</p>---
 
----
+⚡ Tech Stack
 
-## ⚡ Tech Stack
+💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,firebase,git,github,vscode&perline=8"/>
-</p>
-
----
-
-## 🖥️ Frontend
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>🚀 Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
-
----
-
-## ⚙️ Backend
+</p>📚 Libraries & Packages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
+</p>🗄️ Databases & ORM
+
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-</p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+</p>🏗️ Architecture & Concepts
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/RBAC-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular_Architecture-607D8B?style=for-the-badge"/>
+</p>☁️ Platforms & Services
 
-## 🛠 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
+</p>🛠️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-</p>
+</p>---
 
----
-
-## 🎮 Featured Projects
+🎮 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanislamrabby&repo=portfolio&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanislamrabby&repo=ecommerce-app&theme=tokyonight"/>
-</p>
+</p>---
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayhanislamrabby&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanislamrabby&theme=tokyonight"/>
-</p>
+</p>---
 
----
-
-## 📈 Top Languages
+📈 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanislamrabby&layout=compact&theme=tokyonight"/>
-</p>
+</p>---
 
----
-
-## 📫 Contact Me
+📫 Contact Me
 
 <p align="center">
   <a href="mailto:rabbydev25@gmail.com">
@@ -105,14 +112,10 @@
   <a href="https://www.linkedin.com/in/rayhanislamrabby">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
----
+</p>---
 
 <p align="center">
   ⭐ Thanks for visiting my profile
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
